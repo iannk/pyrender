@@ -1,3 +1,0 @@
-1. Only render verteces that are visible.
-2. Allow the user to change settings for the model such as size and position.
-3. Effects.
